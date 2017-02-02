@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from prime import is_prime
 
 def test_good():
